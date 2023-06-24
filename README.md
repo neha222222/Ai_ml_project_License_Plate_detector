@@ -1,5 +1,4 @@
 # Ai_ml_project_License_Plate_detector
-# Number Plate Detector
 
 This program utilizes the Ultralytics YOLO (You Only Look Once) model to detect number plates in images or real-time video streams. The YOLO model has been trained on a dataset and is capable of accurately identifying and localizing number plates.
 
